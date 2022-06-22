@@ -1,5 +1,5 @@
-### :grin: ... Hello World!
-#### :wave: My name is Gabriel Borel, I have 21 years old and I'm from Brazil.<br>:man_technologist: Studying Web Development focusing on stacks that have Javascript as core.<br>:books: My Knowledges: Javascript, React, Typescript, NodeJS, NextJS, Supabase, FaunaDB, React Query, Axios, HTML5, CSS3, SASS, TailwindCSS, Chakra-UI, and others...
+## :grin: ... Hello World!
+### :wave: My name is Gabriel Borel, I have 21 years old and I'm from Brazil.<br>:man_technologist: Studying Web Development focusing on stacks that have Javascript as core.<br>:books: My Knowledges: Javascript, React, Typescript, NodeJS, NextJS, Supabase, FaunaDB, React Query, Axios, HTML5, CSS3, SASS, TailwindCSS, Chakra-UI, and others...
  
 ###
 
