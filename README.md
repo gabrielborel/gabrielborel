@@ -23,7 +23,7 @@ Currently a student of Alura Online Courses and Rocketseat's Ignite course, wher
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning Node.js, Typescript, Go and a little bit of Rust.  
+- 🌱 I’m currently learning Node.js, Typescript, Golang and React.  
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
