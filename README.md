@@ -13,7 +13,7 @@
 
 ### Glad to see you here!  
 Graduating in Software Engineering, with 1 year and 8 months of studies in the area of web programming, focused on Fullstack Development. 
-Acquiring experience in technologies like: Typescript, Node.js, React, Nextjs, SQL/noSQL,  Go and Rust. Agile methodologies like: Scrum, Kanban. 
+Acquiring experience in technologies like: Typescript, Node.js, React, Golang, SQL. 
 Currently a student of Alura Online Courses and Rocketseat's Ignite course, where I have been focusing my studies in React, Typescript, Node.js,  
   
 
