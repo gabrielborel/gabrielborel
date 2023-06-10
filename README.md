@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-Graduating in Software Engineering, I have dived in this world at the beginning of 2021 and sice then have been an amazing journey, everyday learning something new and getting better. 
+Graduating in Software Engineering, I have dived in this world at the beginning of 2021 and since then have been an amazing journey, everyday learning something new and getting better. 
   
 
 <br/>  
