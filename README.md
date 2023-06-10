@@ -12,9 +12,7 @@
 
 
 ### Glad to see you here!  
-Graduating in Software Engineering, with 1 year and 9 months of studies in the area of web programming, focused on Fullstack Development. 
-Acquiring experience in technologies like: Typescript, Node.js, React, Golang, SQL. 
-Currently a student of Alura Online Courses and Rocketseat's Ignite course, where I have been focusing my studies in Node.js, Typescript, Golang and React.  
+Graduating in Software Engineering, I have dived in this world at the beginning of 2021 and sice then have been an amazing journey, everyday learning something new and getting better. 
   
 
 <br/>  
